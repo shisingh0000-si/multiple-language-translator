@@ -15,5 +15,4 @@ This project is a Generative AI-powered multi-language translator built using St
 
 ## 🚀 How to Run
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+pip install -m streamlit run app.py
